@@ -4,4 +4,4 @@ applications:
   routes:
     - route: pal-tracker-prasa-aks.cfapps.io
   env:
-    WELCOME_MESSAGE: Hello from Pras Akkamma
+    WELCOME_MESSAGE: Hello from the review environment
