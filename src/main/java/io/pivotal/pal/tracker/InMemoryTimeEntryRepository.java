@@ -1,7 +1,5 @@
 package io.pivotal.pal.tracker;
 
-import tracker.TimeEntry;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
