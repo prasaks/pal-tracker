@@ -16,3 +16,4 @@ public interface TimeEntryRepository {
 
     TimeEntry find(Long id);
 }
+
